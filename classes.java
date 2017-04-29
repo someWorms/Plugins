@@ -28,3 +28,10 @@ public class Classes extends JavaPlugin implements Listener {
 	}
 
 }
+//yml
+/*   
+name: namehere
+main: Classes.Classes
+description: simple
+version: 0.1
+*/
